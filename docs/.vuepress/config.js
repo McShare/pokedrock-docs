@@ -36,9 +36,7 @@ export default defineUserConfig({
     // 定义主题配置
     theme: defaultTheme({
         // Public 文件路径
-        logo: '/images/hero.png',
-        // URL
-        logo: 'https://vuejs.org/images/logo.png',
+        logo: '/images/pack_icon.png',
         //路径
         locales: {
             '/': {
