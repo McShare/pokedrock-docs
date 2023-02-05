@@ -76,6 +76,10 @@ export default defineUserConfig({
                         text: '首页',
                         link: '/',
                     },
+                    {
+                        text: '如何使用',
+                        children: ['/how-to-use/installation.md', '/how-to-use/basic-usage.md', '/how-to-use/advanced-usage'],
+                    },
                 ],
             },
             '/languages/es-ES': {
