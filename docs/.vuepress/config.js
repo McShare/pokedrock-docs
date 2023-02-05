@@ -33,6 +33,7 @@ export default defineUserConfig({
                 selectLanguageName: '简体中文',
                 selectLanguageText: '选择语言',
                 toggleColorMode: '切换主题颜色',
+                lastUpdatedText: '最后更新时间',
                 contributors: contributors,
                 // 顶栏
                 navbar: [
@@ -53,6 +54,7 @@ export default defineUserConfig({
                 selectLanguageName: 'English',
                 selectLanguageText: 'Languages',
                 toggleColorMode: 'toggle color mode',
+                lastUpdatedText: 'Last Updated',
                 contributors: contributors,
                 // 顶栏
                 navbar: [
