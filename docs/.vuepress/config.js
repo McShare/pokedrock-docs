@@ -22,12 +22,12 @@ export default defineUserConfig({
             title: 'SERP Pokédrock Documentation',
             description: 'SERP Pokédrock Documentation',
         },
-        '/languages/zh-CN': {
+        '/lang/zh-CN': {
             lang: 'zh-CN',
             title: 'SERP Pokédrock 文档',
             description: 'SERP Pokédrock 模组的文档',
         },
-        '/languages/es-ES': {
+        '/lang/es-ES': {
             lang: 'es-ES',
             title: 'SERP Pokédrock Documentación',
             description: 'SERP Pokédrock Documentación',
@@ -60,7 +60,7 @@ export default defineUserConfig({
                     },
                 ],
             },
-            '/languages/zh-CN': {
+            '/lang/zh-CN': {
                 selectLanguageName: '简体中文',
                 selectLanguageText: '选择语言',
                 toggleColorMode: '切换主题颜色',
@@ -84,15 +84,15 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '下载与安装',
-                                link: '/languages/zh-CN/how-to-use/installation.md', 
+                                link: '/lang/zh-CN/how-to-use/installation.md', 
                             },
                             {
                                 text: '基本技巧',
-                                link: '/languages/zh-CN/how-to-use/basic-usage.md', 
+                                link: '/lang/zh-CN/how-to-use/basic-usage.md', 
                             },
                             {
                                 text: '进阶玩法',
-                                link: '/languages/zh-CN/how-to-use/advanced-usage',
+                                link: '/lang/zh-CN/how-to-use/advanced-usage',
                             },
                         ],
                     },
@@ -101,25 +101,25 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '物品',
-                                link: '/languages/zh-CN/illustration/item.md', 
+                                link: '/lang/zh-CN/illustration/item.md', 
                             },
                             {
                                 text: '第一世代',
-                                link: '/languages/zh-CN/illustration/gen1.md', 
+                                link: '/lang/zh-CN/illustration/gen1.md', 
                             },
                             {
                                 text: '第二世代',
-                                link: '/languages/zh-CN/illustration/gen2.md',
+                                link: '/lang/zh-CN/illustration/gen2.md',
                             },
                             {
                                 text: '第三世代',
-                                link: '/languages/zh-CN/illustration/gen3.md',
+                                link: '/lang/zh-CN/illustration/gen3.md',
                             },
                         ],
                     },
                 ],
             },
-            '/languages/es-ES': {
+            '/lang/es-ES': {
                 selectLanguageName: 'Español',
                 selectLanguageText: 'Elige un idioma',
                 toggleColorMode: 'Alternar colores del tema',
@@ -136,7 +136,7 @@ export default defineUserConfig({
                 sidebar: [
                     {
                         text: 'Hogar',
-                        link: '/',
+                        link: '/lang/es-ES',
                     },
                 ],
             },
@@ -151,10 +151,10 @@ export default defineUserConfig({
                 '/': {
                     placeholder: 'Search',
                 },
-                '/languages/zh-CN': {
+                '/lang/zh-CN': {
                     placeholder: '搜索文档',
                 },
-                '/languages/es-ES': {
+                '/lang/es-ES': {
                     placeholder: 'Buscar',
                 },
             },
