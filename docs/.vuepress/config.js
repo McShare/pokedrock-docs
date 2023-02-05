@@ -84,15 +84,15 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '下载与安装',
-                                link: 'how-to-use/installation.md', 
+                                link: '/languages/zh-CN/how-to-use/installation.md', 
                             },
                             {
                                 text: '基本技巧',
-                                link: 'how-to-use/basic-usage.md', 
+                                link: '/languages/zh-CN/how-to-use/basic-usage.md', 
                             },
                             {
                                 text: '进阶玩法',
-                                link: 'how-to-use/advanced-usage',
+                                link: '/languages/zh-CN/how-to-use/advanced-usage',
                             },
                         ],
                     },
@@ -101,19 +101,19 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '物品',
-                                link: 'illustration/item.md', 
+                                link: '/languages/zh-CN/illustration/item.md', 
                             },
                             {
                                 text: '第一世代',
-                                link: 'illustration/gen1.md', 
+                                link: '/languages/zh-CN/illustration/gen1.md', 
                             },
                             {
                                 text: '第二世代',
-                                link: 'illustration/gen2.md',
+                                link: '/languages/zh-CN/illustration/gen2.md',
                             },
                             {
                                 text: '第三世代',
-                                link: 'illustration/gen3.md',
+                                link: '/languages/zh-CN/illustration/gen3.md',
                             },
                         ],
                     },
