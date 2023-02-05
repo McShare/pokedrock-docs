@@ -14,7 +14,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 var contributors = false
 
 export default defineUserConfig({
-    lang: 'zh-CN',
+    lang: 'en-US',
     // 定义所有可用语言
     locales: {
         '/': {
