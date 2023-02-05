@@ -86,15 +86,36 @@ export default defineUserConfig({
                         children: [
                             {
                                 text: '下载与安装',
-                                link: '/languages/zh-CN/how-to-use/installation.md', 
+                                link: 'how-to-use/installation.md', 
                             },
                             {
                                 text: '基本技巧',
-                                link: '/languages/zh-CN/how-to-use/basic-usage.md', 
+                                link: 'how-to-use/basic-usage.md', 
                             },
                             {
                                 text: '进阶玩法',
-                                link: '/languages/zh-CN/how-to-use/advanced-usage',
+                                link: 'how-to-use/advanced-usage',
+                            },
+                        ],
+                    },
+                    {
+                        text: '图鉴',
+                        children: [
+                            {
+                                text: '物品',
+                                link: 'illustration/item.md', 
+                            },
+                            {
+                                text: '第一世代',
+                                link: 'illustration/gen1.md', 
+                            },
+                            {
+                                text: '第二世代',
+                                link: 'illustration/gen2.md',
+                            },
+                            {
+                                text: '第三世代',
+                                link: 'illustration/gen3.md',
                             },
                         ],
                     },
