@@ -14,6 +14,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 var contributors = false
 
 export default defineUserConfig({
+    head: [['link', { rel: 'icon', href: '/images/pokeball.png' }]],
     lang: 'en-US',
     // 定义所有可用语言
     locales: {
@@ -36,7 +37,7 @@ export default defineUserConfig({
     // 定义主题配置
     theme: defaultTheme({
         // Public 文件路径
-        logo: '/images/pack_icon.png',
+        logo: '/images/pokeball.png',
         //路径
         locales: {
             '/': {
