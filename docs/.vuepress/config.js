@@ -18,41 +18,25 @@ export default defineUserConfig({
     // 定义所有可用语言
     locales: {
         '/': {
-            lang: 'zh-CN',
-            title: 'SERP Pokédrock模组文档',
-            description: 'SERP Pokédrock模组文档',
-        },
-        '/languages/en-US/': {
             lang: 'en-US',
-            title: 'SERP Pokédrock Module Docs',
-            description: 'SERP Pokédrock Module Docs',
+            title: 'SERP Pokédrock Docs',
+            description: 'SERP Pokédrock Docs',
+        },
+        '/languages/zh-CN': {
+            lang: 'zh-CN',
+            title: 'SERP Pokédrock 文档',
+            description: 'SERP Pokédrock 文档',
+        },
+        '/languages/es-ES': {
+            lang: 'es-ES',
+            title: 'SERP Pokédrock Documentación',
+            description: 'SERP Pokédrock Documentación',
         },
     },
     // 定义主题配置
     theme: defaultTheme({
         locales: {
             '/': {
-                selectLanguageName: '简体中文',
-                selectLanguageText: '选择语言',
-                toggleColorMode: '切换主题颜色',
-                lastUpdatedText: '最后更新时间',
-                contributors: contributors,
-                // 顶栏
-                navbar: [
-                    {
-                        text: 'GitHub',
-                        link: 'https://github.com/McShare',
-                    },
-                ],
-                // 侧边栏
-                sidebar: [
-                    {
-                        text: '首页',
-                        link: '/',
-                    },
-                ],
-            },
-            '/languages/en-US/': {
                 selectLanguageName: 'English',
                 selectLanguageText: 'Languages',
                 toggleColorMode: 'toggle color mode',
@@ -73,6 +57,48 @@ export default defineUserConfig({
                     },
                 ],
             },
+            '/languages/zh-CN': {
+                selectLanguageName: '简体中文',
+                selectLanguageText: '选择语言',
+                toggleColorMode: '切换主题颜色',
+                lastUpdatedText: '最后更新时间',
+                contributors: contributors,
+                // 顶栏
+                navbar: [
+                    {
+                        text: 'GitHub',
+                        link: 'https://github.com/McShare',
+                    },
+                ],
+                // 侧边栏
+                sidebar: [
+                    {
+                        text: '首页',
+                        link: '/',
+                    },
+                ],
+            },
+            '/languages/es-ES': {
+                selectLanguageName: 'Español',
+                selectLanguageText: 'Elige un idioma',
+                toggleColorMode: 'Alternar colores del tema',
+                lastUpdatedText: 'Última actualización',
+                contributors: contributors,
+                // 顶栏
+                navbar: [
+                    {
+                        text: 'GitHub',
+                        link: 'https://github.com/McShare',
+                    },
+                ],
+                // 侧边栏
+                sidebar: [
+                    {
+                        text: 'Hogar',
+                        link: '/',
+                    },
+                ],
+            },
         },
     }),
     // 配置插件
@@ -82,10 +108,13 @@ export default defineUserConfig({
             // 搜索框文字
             locales: {
                 '/': {
+                    placeholder: 'Search',
+                },
+                '/languages/zh-CN': {
                     placeholder: '搜索文档',
                 },
-                '/languages/en-US/': {
-                    placeholder: 'Search',
+                '/languages/es-ES': {
+                    placeholder: 'Buscar',
                 },
             },
         }),
