@@ -78,7 +78,7 @@ export default defineUserConfig({
                 sidebar: [
                     {
                         text: '首页',
-                        link: '/',
+                        link: '/lang/zh-CN/',
                     },
                     {
                         text: '如何使用',
