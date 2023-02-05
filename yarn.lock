@@ -455,7 +455,7 @@
     vue "^3.2.45"
     vue-router "^4.1.6"
 
-"@vuepress/plugin-back-to-top@2.0.0-beta.60":
+"@vuepress/plugin-back-to-top@2.0.0-beta.60", "@vuepress/plugin-back-to-top@^2.0.0-beta.60":
   version "2.0.0-beta.60"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.60.tgz#03b769855b40785f24aa33290cfc17409cdab5b2"
   integrity sha512-vpVTA6EwWjjYyl6Op5J16RV6rEvwUYkLnjYhJ2qWroDb8U2x32HGWFJZQFIyatGO+oU6UBVYow90j2+Ery2g6g==

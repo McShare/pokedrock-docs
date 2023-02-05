@@ -1,13 +1,14 @@
 /*
  * @Author: NyanCatda
  * @Date: 2023-02-04 21:53:29
- * @LastEditTime: 2023-02-05 20:15:12
+ * @LastEditTime: 2023-02-05 20:18:54
  * @LastEditors: NyanCatda
  * @Description: 配置文件
  * @FilePath: \pokedrock-docs\docs\.vuepress\config.js
  */
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 
 var contributors = false
 
@@ -73,4 +74,8 @@ export default defineUserConfig({
             },
         },
     }),
+    // 配置插件
+    plugins: [
+        backToTopPlugin(),
+    ],
 })
