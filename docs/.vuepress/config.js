@@ -35,6 +35,11 @@ export default defineUserConfig({
     },
     // 定义主题配置
     theme: defaultTheme({
+        // Public 文件路径
+        logo: '/images/hero.png',
+        // URL
+        logo: 'https://vuejs.org/images/logo.png',
+        //路径
         locales: {
             '/': {
                 selectLanguageName: 'English',
@@ -78,7 +83,20 @@ export default defineUserConfig({
                     },
                     {
                         text: '如何使用',
-                        children: ['/how-to-use/installation.md', '/how-to-use/basic-usage.md', '/how-to-use/advanced-usage'],
+                        children: [
+                            {
+                                text: '下载与安装',
+                                link: '/how-to-use/installation.md', 
+                            },
+                            {
+                                text: '基本技巧',
+                                link: '/how-to-use/basic-usage.md', 
+                            },
+                            {
+                                text: '进阶玩法',
+                                link: '/how-to-use/advanced-usage',
+                            },
+                        ],
                     },
                 ],
             },
