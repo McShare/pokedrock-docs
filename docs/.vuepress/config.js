@@ -1,7 +1,7 @@
 /*
  * @Author: NyanCatda
  * @Date: 2023-02-04 21:53:29
- * @LastEditTime: 2023-02-05 20:18:54
+ * @LastEditTime: 2023-02-05 20:25:43
  * @LastEditors: NyanCatda
  * @Description: 配置文件
  * @FilePath: \pokedrock-docs\docs\.vuepress\config.js
@@ -10,6 +10,7 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { searchPlugin } from '@vuepress/plugin-search'
+import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 var contributors = false
 
@@ -79,6 +80,8 @@ export default defineUserConfig({
     plugins: [
         // 返回顶部
         backToTopPlugin(),
+        // 加载进度条
+        nprogressPlugin(),
         // 搜索
         searchPlugin({
             // 搜索框文字
