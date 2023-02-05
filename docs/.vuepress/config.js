@@ -60,18 +60,18 @@ export default defineUserConfig({
                         link: '/',
                     },
                     {
-                        text: 'How to use',
+                        text: 'How To Use',
                         children: [
                             {
                                 text: 'Installation',
                                 link: '/how-to-use/installation.md', 
                             },
                             {
-                                text: 'Basic usage',
+                                text: 'Basic Usage',
                                 link: '/how-to-use/basic-usage.md', 
                             },
                             {
-                                text: 'Advanced usage',
+                                text: 'Advanced Usage',
                                 link: '/how-to-use/advanced-usage',
                             },
                         ],
