@@ -1,16 +1,15 @@
 ---
-title: 首页
-description: SERP Pokédrock模组文档
+title: Home
+description: SERP Pokédrock Documentation
 ---
 
 ![Logo](/images/Logo.png)
 
-# 欢迎来到 Pokédrock 的文档！
+# Welcome to Pokédrock's documentation!
 
-欢迎来到 [SERP Pokédrock](https://www.serpzacek.com/addons/serp-pok%C3%A9drock) 的世界！这个插件拥有惊艳和灵活的战斗系统！ 支持领域并与 [Minecraft Bedrock](https://www.minecraft.net/) 全面适配，获取完整的真实冒险体验！
-本模组由 Zacek el Serpentín 创作，[MineBBS](https://www.minebbs.com/) 汉化。
+Welcome to the world of [SERP Pokédrock](https://www.serpzacek.com/addons/serp-pok%C3%A9drock)! This addon has a frenetic and dynamic combat system! Support for realms and the whole experience of a real adventure implemented in harmony with [Minecraft Bedrock](https://www.minecraft.net/)! This mod was created by Zacek el Serpentín and Chinese version from [MineBBS](https://www.minebbs.com/).
 
-本文档将介绍如何下载、安装和导入该模组，并且展示和介绍模组中的各种物品与生物，同时也会补充许多需要注意的使用方法。
+This document will introduce how to download, install and import the mod, show and introduce various items and creatures in the mod, and also supplement many usage methods that need attention.
 
->   本项目不隶属于 Mojang 且与 Pokémon 游戏无关，各生物和物品名称为 Pokémon 公司资产。  
->   本模组与文档都正在积极开发中，欢迎参与！
+>   This project is not affiliated with Mojang and has nothing to do with the Pokémon game, creatures and item names are property of The Pokémon Company. 
+>   Both the Addon and the documentation are under active development, welcome to participate!

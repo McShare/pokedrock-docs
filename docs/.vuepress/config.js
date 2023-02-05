@@ -19,13 +19,13 @@ export default defineUserConfig({
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'SERP Pokédrock Docs',
-            description: 'SERP Pokédrock Docs',
+            title: 'SERP Pokédrock Documentation',
+            description: 'SERP Pokédrock Documentation',
         },
         '/languages/zh-CN': {
             lang: 'zh-CN',
             title: 'SERP Pokédrock 文档',
-            description: 'SERP Pokédrock 文档',
+            description: 'SERP Pokédrock 模组的文档',
         },
         '/languages/es-ES': {
             lang: 'es-ES',
