@@ -1,4 +1,4 @@
-# 进阶技巧
+# Advanced Usage
 
 .. autosummary::
    :toctree: generated

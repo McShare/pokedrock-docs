@@ -1,4 +1,4 @@
-# 基础玩法
+# Basic Usage
 
 .. autosummary::
    :toctree: generated
