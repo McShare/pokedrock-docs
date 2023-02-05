@@ -59,6 +59,44 @@ export default defineUserConfig({
                         text: 'Home',
                         link: '/',
                     },
+                    {
+                        text: 'How to use',
+                        children: [
+                            {
+                                text: 'Installation',
+                                link: '/how-to-use/installation.md', 
+                            },
+                            {
+                                text: 'Basic usage',
+                                link: '/how-to-use/basic-usage.md', 
+                            },
+                            {
+                                text: 'Advanced usage',
+                                link: '/how-to-use/advanced-usage',
+                            },
+                        ],
+                    },
+                    {
+                        text: 'Illustration',
+                        children: [
+                            {
+                                text: 'Item',
+                                link: '/illustration/item.md', 
+                            },
+                            {
+                                text: 'Generation 1',
+                                link: '/illustration/gen1.md', 
+                            },
+                            {
+                                text: 'Generation 2',
+                                link: '/illustration/gen2.md',
+                            },
+                            {
+                                text: 'Generation 2',
+                                link: '/illustration/gen3.md',
+                            },
+                        ],
+                    },
                 ],
             },
             '/lang/zh-CN': {
