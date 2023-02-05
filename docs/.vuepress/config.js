@@ -8,9 +8,7 @@
  */
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { searchPlugin } from '@vuepress/plugin-search'
-import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 var contributors = false
@@ -79,10 +77,6 @@ export default defineUserConfig({
     }),
     // 配置插件
     plugins: [
-        // 返回顶部
-        backToTopPlugin(),
-        // 加载进度条
-        nprogressPlugin(),
         // 搜索
         searchPlugin({
             // 搜索框文字
