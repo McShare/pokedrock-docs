@@ -1,13 +1,15 @@
 /*
  * @Author: NyanCatda
  * @Date: 2023-02-04 21:53:29
- * @LastEditTime: 2023-02-04 22:31:15
+ * @LastEditTime: 2023-02-05 20:15:12
  * @LastEditors: NyanCatda
  * @Description: 配置文件
  * @FilePath: \pokedrock-docs\docs\.vuepress\config.js
  */
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
+
+var contributors = false
 
 export default defineUserConfig({
     lang: 'zh-CN',
@@ -31,6 +33,7 @@ export default defineUserConfig({
                 selectLanguageName: '简体中文',
                 selectLanguageText: '选择语言',
                 toggleColorMode: '切换主题颜色',
+                contributors: contributors,
                 // 顶栏
                 navbar: [
                     {
@@ -50,6 +53,7 @@ export default defineUserConfig({
                 selectLanguageName: 'English',
                 selectLanguageText: 'Languages',
                 toggleColorMode: 'toggle color mode',
+                contributors: contributors,
                 // 顶栏
                 navbar: [
                     {
