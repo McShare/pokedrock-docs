@@ -92,7 +92,7 @@ export default defineUserConfig({
                                 link: '/illustration/gen2.md',
                             },
                             {
-                                text: 'Generation 2',
+                                text: 'Generation 3',
                                 link: '/illustration/gen3.md',
                             },
                         ],
