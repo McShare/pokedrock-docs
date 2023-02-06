@@ -1,5 +1,6 @@
 # pokedrock-docs
 SERP Pokédrock模组文档
+<https://pokedrock.wiki/>
 
 ## 预览
 ```shell
