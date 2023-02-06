@@ -1,7 +1,7 @@
 /*
  * @Author: NyanCatda
  * @Date: 2023-02-04 21:53:29
- * @LastEditTime: 2023-02-05 20:36:09
+ * @LastEditTime: 2023-02-06 17:35:08
  * @LastEditors: NyanCatda
  * @Description: 配置文件
  * @FilePath: \pokedrock-docs\docs\.vuepress\config.js
@@ -10,6 +10,14 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import {
+    navbar_zh_CN,
+    navbar_en_US,
+    navbar_es_ES,
+    sidebar_zh_CN,
+    sidebar_en_US,
+    sidebar_es_ES,
+} from './configs/index.js'
 
 var contributors = false
 
@@ -38,7 +46,6 @@ export default defineUserConfig({
     theme: defaultTheme({
         // Public 文件路径
         logo: '/images/pokeball.png',
-        //路径
         locales: {
             '/': {
                 selectLanguageName: 'English',
@@ -47,57 +54,9 @@ export default defineUserConfig({
                 lastUpdatedText: 'Last Updated',
                 contributors: contributors,
                 // 顶栏
-                navbar: [
-                    {
-                        text: 'GitHub',
-                        link: 'https://github.com/McShare',
-                    },
-                ],
+                navbar: navbar_en_US,
                 // 侧边栏
-                sidebar: [
-                    {
-                        text: 'Home',
-                        link: '/',
-                    },
-                    {
-                        text: 'How To Use',
-                        children: [
-                            {
-                                text: 'Installation',
-                                link: '/how-to-use/installation.md', 
-                            },
-                            {
-                                text: 'Basic Usage',
-                                link: '/how-to-use/basic-usage.md', 
-                            },
-                            {
-                                text: 'Advanced Usage',
-                                link: '/how-to-use/advanced-usage',
-                            },
-                        ],
-                    },
-                    {
-                        text: 'Illustration',
-                        children: [
-                            {
-                                text: 'Item',
-                                link: '/illustration/item.md', 
-                            },
-                            {
-                                text: 'Generation 1',
-                                link: '/illustration/gen1.md', 
-                            },
-                            {
-                                text: 'Generation 2',
-                                link: '/illustration/gen2.md',
-                            },
-                            {
-                                text: 'Generation 3',
-                                link: '/illustration/gen3.md',
-                            },
-                        ],
-                    },
-                ],
+                sidebar: sidebar_en_US,
             },
             '/lang/zh-CN': {
                 selectLanguageName: '简体中文',
@@ -106,57 +65,9 @@ export default defineUserConfig({
                 lastUpdatedText: '最后更新时间',
                 contributors: contributors,
                 // 顶栏
-                navbar: [
-                    {
-                        text: 'GitHub',
-                        link: 'https://github.com/McShare',
-                    },
-                ],
+                navbar: navbar_zh_CN,
                 // 侧边栏
-                sidebar: [
-                    {
-                        text: '首页',
-                        link: '/lang/zh-CN/',
-                    },
-                    {
-                        text: '如何使用',
-                        children: [
-                            {
-                                text: '下载与安装',
-                                link: '/lang/zh-CN/how-to-use/installation.md', 
-                            },
-                            {
-                                text: '基本技巧',
-                                link: '/lang/zh-CN/how-to-use/basic-usage.md', 
-                            },
-                            {
-                                text: '进阶玩法',
-                                link: '/lang/zh-CN/how-to-use/advanced-usage',
-                            },
-                        ],
-                    },
-                    {
-                        text: '图鉴',
-                        children: [
-                            {
-                                text: '物品',
-                                link: '/lang/zh-CN/illustration/item.md', 
-                            },
-                            {
-                                text: '第一世代',
-                                link: '/lang/zh-CN/illustration/gen1.md', 
-                            },
-                            {
-                                text: '第二世代',
-                                link: '/lang/zh-CN/illustration/gen2.md',
-                            },
-                            {
-                                text: '第三世代',
-                                link: '/lang/zh-CN/illustration/gen3.md',
-                            },
-                        ],
-                    },
-                ],
+                sidebar: sidebar_zh_CN,
             },
             '/lang/es-ES': {
                 selectLanguageName: 'Español',
@@ -165,19 +76,9 @@ export default defineUserConfig({
                 lastUpdatedText: 'Última actualización',
                 contributors: contributors,
                 // 顶栏
-                navbar: [
-                    {
-                        text: 'GitHub',
-                        link: 'https://github.com/McShare',
-                    },
-                ],
+                navbar: navbar_es_ES,
                 // 侧边栏
-                sidebar: [
-                    {
-                        text: 'Hogar',
-                        link: '/lang/es-ES',
-                    },
-                ],
+                sidebar: sidebar_es_ES,
             },
         },
     }),
