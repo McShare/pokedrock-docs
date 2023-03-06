@@ -1,5 +1,7 @@
 # 第一世代
+
 ---
+
 ![Gen1PokeMon](/images/PokeMons/InitialPokeMon/gen1.jpg)
 
 第一世代的御三家
