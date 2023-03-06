@@ -1,3 +1,8 @@
+---
+title: 第一世代
+description: SERP Pokédrock模组文档
+---
+
 # 第一世代
 
 ![Logo](/images/PokeMons/InitialPokeMon/gen1)
