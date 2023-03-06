@@ -7,8 +7,8 @@
 <h4>第一世代的御三家</h4>
 
 它们分别是：\
-<font color="red">火属性：小火龙</font>
-![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")\
+<font color="red">火属性：小火龙
+![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")</font>\
 水属性：杰尼龟
 ![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")\
 草属性：妙蛙种子
