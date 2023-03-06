@@ -8,7 +8,7 @@
 
 它们分别是：\
 火属性：小火龙
-![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")<h5>123</h5>\
+![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")\
 水属性：杰尼龟
 ![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")\
 草属性：妙蛙种子
