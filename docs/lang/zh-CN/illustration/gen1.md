@@ -1,5 +1,5 @@
 ---
-title: 第一世代
+title: 第一世代Gen1
 description: SERP Pokédrock模组文档
 ---
 
