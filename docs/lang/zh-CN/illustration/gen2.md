@@ -1,6 +1,5 @@
 # 第二世代
 
-.. autosummary::
-   :toctree: generated
+---
 
-   lumache
+![Gen1PokeMon](/images/PokeMons/InitialPokeMon/gen2.jpg)
