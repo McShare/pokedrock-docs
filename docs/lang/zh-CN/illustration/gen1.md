@@ -9,7 +9,7 @@
 它们分别是：\
 <font color="red">火属性：小火龙
 ![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")</font>\
-水属性：杰尼龟
-![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")\
-草属性：妙蛙种子
-![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")
+<font color="blue">水属性：杰尼龟
+![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")</font>\
+<font color="green">草属性：妙蛙种子
+![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")</font>
