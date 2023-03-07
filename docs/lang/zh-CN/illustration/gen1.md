@@ -6,9 +6,9 @@
 
 <h4>第一世代的御三家</h4>
 
-* <font color="#E40000">火属性:</font> [<font color="#E40000">小火龙</font>](/lang/zh-CN/illustration/gen1.md "小火龙") ![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")<br>
-* <font color="#2B80FF">水属性:</font> [<font color="#2B80FF">杰尼龟</font>](/lang/zh-CN/illustration/gen1.md "杰尼龟") ![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")<br>
-* <font color="#00C000">草属性:</font> [<font color="#00C000">妙蛙种子</font>](/lang/zh-CN/illustration/gen1.md "妙蛙种子") ![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")<br>
+* <font color="#E40000">火属性:</font> [小火龙](/lang/zh-CN/illustration/gen1.md "小火龙") ![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")<br>
+* <font color="#2B80FF">水属性:</font> [杰尼龟](/lang/zh-CN/illustration/gen1.md "杰尼龟") ![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")<br>
+* <font color="#00C000">草属性:</font> [妙蛙种子](/lang/zh-CN/illustration/gen1.md "妙蛙种子") ![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")<br>
 
 ---
 
