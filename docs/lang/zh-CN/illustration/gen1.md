@@ -12,7 +12,7 @@
 
 ---
 
-<font size="4"><b>宝可梦图鉴</b></font><font size="1" color="#A9A9A9">第一世代</font>
+<font size="4"><b>宝可梦图鉴</b></font><font size="1" color="#A9A9A9"><sub>第一世代</sub></font>
 
 |图鉴编号|宝可梦|属性|外貌|详细信息|
 |:---:|:---:|:---:|:---:|:---:|
