@@ -17,5 +17,5 @@
 |图鉴编号|宝可梦|属性|外貌|详细信息|
 |:---:|:---:|:---:|:---:|:---:|
 |001|妙蛙种子|草|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|[[详细]](xxx.xxx.xxx "妙蛙种子")|
-|001|妙蛙草|草|![Gen1-002](/images/PokeMons/Gen1/001.gif "妙蛙草")|[[详细]](xxx.xxx.xxx "妙蛙草")|
-|001|妙蛙花|草|![Gen1-003](/images/PokeMons/Gen1/001.gif "妙蛙花")|[[详细]](xxx.xxx.xxx "妙蛙花")|
+|002|妙蛙草|草|![Gen1-002](/images/PokeMons/Gen1/002.gif "妙蛙草")|[[详细]](xxx.xxx.xxx "妙蛙草")|
+|003|妙蛙花|草|![Gen1-003](/images/PokeMons/Gen1/003.gif "妙蛙花")|[[详细]](xxx.xxx.xxx "妙蛙花")|
