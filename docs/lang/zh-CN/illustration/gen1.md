@@ -14,8 +14,8 @@
 
 <font size="4"><b>宝可梦图鉴</b></font><font size="1" color="#A9A9A9"><sub><i>第一世代</i></sub></font>
 
-|图鉴编号|宝可梦|属性|外貌|详细信息|
-|:---:|:---:|:---:|:---:|:---:|
-|001|妙蛙种子|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|[[详细]](/lang/zh-CN/illustration/gen1.md "妙蛙种子")|
-|002|妙蛙草|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-002](/images/PokeMons/Gen1/002.gif "妙蛙草")|[[详细]](/lang/zh-CN/illustration/gen1.md "妙蛙种子")|
-|003|妙蛙花|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-003](/images/PokeMons/Gen1/003.gif "妙蛙花")|[[详细]](/lang/zh-CN/illustration/gen1.md "妙蛙种子")|
+|图鉴编号|宝可梦|属性|外貌|
+|:---:|:---:|:---:|:---:|
+|001|[妙蛙种子](/lang/zh-CN/illustration/gen1.md "妙蛙种子")|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|
+|002|[妙蛙草](/lang/zh-CN/illustration/gen1.md "妙蛙草")|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-002](/images/PokeMons/Gen1/002.gif "妙蛙草")|
+|003|[妙蛙花](/lang/zh-CN/illustration/gen1.md "妙蛙花")|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-003](/images/PokeMons/Gen1/003.gif "妙蛙花")|
