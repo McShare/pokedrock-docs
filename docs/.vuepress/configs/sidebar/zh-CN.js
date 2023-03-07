@@ -38,6 +38,12 @@ export const sidebar_zh_CN = [
             {
                 text: '第一世代',
                 link: '/lang/zh-CN/illustration/gen1.md',
+        children: [
+            {
+                text: '123',
+                link: '/lang/zh-CN/illustration/item.md',
+            },
+            ],
             },
             {
                 text: '第二世代',
