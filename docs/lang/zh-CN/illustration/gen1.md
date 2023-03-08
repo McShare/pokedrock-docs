@@ -16,7 +16,7 @@
 
 |编号|宝可梦|属性|外貌|栖息群系|身高<font size="1" color="#A9A9A9"><sub><i>m</i></sub></font>/体重<font size="1" color="#A9A9A9"><sub><i>kg</i></sub></font>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|妙蛙种子|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|森林|0.7/6.9|
+|001|[妙蛙种子](/images/PokeMons/Gen1/Game/001.jpg "妙蛙种子")|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|森林|0.7/6.9|
 |002|妙蛙草|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-002](/images/PokeMons/Gen1/002.gif "妙蛙草")|森林|1/13|
 |003|妙蛙花|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-003](/images/PokeMons/Gen1/003.gif "妙蛙花")|桦木林|2/100|
 |004|小火龙|<font color="#E40000">火</font>|![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")|恶地|0.6/8.5|
@@ -41,4 +41,3 @@
 |023|阿柏蛇|<font color="#00C000"></font>|![Gen1-023](/images/PokeMons/Gen1/023.gif "阿柏蛇")||/|
 |024|阿柏怪|<font color="#00C000"></font>|![Gen1-024](/images/PokeMons/Gen1/024.gif "阿柏怪")||/|
 |025|皮卡丘|<font color="#00C000"></font>|![Gen1-025](/images/PokeMons/Gen1/025.gif "皮卡丘")||/|
-[123](/images/PokeMons/Gen1/001.gif)
