@@ -48,6 +48,3 @@
   Your browser does not support the video tag.
 </video>
 
-## 结语
-
-感谢您来访我的有趣网页，希望您喜欢这些内容。如果您有任何建议或意见，请随时联系我。
