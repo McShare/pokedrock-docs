@@ -31,13 +31,11 @@
 |013|独角虫|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-013](/images/PokeMons/Gen1/013.gif "独角虫")|森林|0.3/3.2|
 |014|铁壳蛹|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-014](/images/PokeMons/Gen1/014.gif "铁壳蛹")|森林|0.6/10|
 |015|大针蜂|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-015](/images/PokeMons/Gen1/015.gif "大针蜂")|森林|0.9/6.4|
-
 |016|波波|<font color="#A2A2A2">一般</font>、<font color="#7EE7FF">飞行</font>|![Gen1-016](/images/PokeMons/Gen1/016.gif "波波")|任何地方|0.3/1.8|
 |017|比比鸟|<font color="#A2A2A2">一般</font>、<font color="#7EE7FF">飞行</font>|![Gen1-017](/images/PokeMons/Gen1/017.gif "比比鸟")|任何地方|1.1/30|
 |018|大比鸟|<font color="#A2A2A2">一般</font>、<font color="#7EE7FF">飞行</font>|![Gen1-018](/images/PokeMons/Gen1/018.gif "大比鸟")|任何地方|1.1/39.5|
 |019|小拉达|<font color="#A2A2A2">一般</font>|![Gen1-019](/images/PokeMons/Gen1/019.gif "小拉达")|任何地方|0.3/3.5|
 |020|拉达|<font color="#A2A2A2">一般</font>|![Gen1-020](/images/PokeMons/Gen1/020.gif "拉达")|任何地方|0.7/18.5|
-
 |021|烈雀|<font color="#A2A2A2">一般</font>、<font color="#7EE7FF">飞行</font>|![Gen1-021](/images/PokeMons/Gen1/021.gif "烈雀")|任何地方|0.3/2|
 |022|大嘴雀|<font color="#A2A2A2">一般</font>、<font color="#7EE7FF">飞行</font>|![Gen1-022](/images/PokeMons/Gen1/022.gif "大嘴雀")|任何地方|1.2/38|
 |023|阿柏蛇|<font color="#A000E0">毒</font>|![Gen1-023](/images/PokeMons/Gen1/023.gif "阿柏蛇")|沼泽|2/6.9|
