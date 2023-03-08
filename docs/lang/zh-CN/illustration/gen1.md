@@ -41,3 +41,4 @@
 |023|阿柏蛇|<font color="#00C000"></font>|![Gen1-023](/images/PokeMons/Gen1/023.gif "阿柏蛇")||/|
 |024|阿柏怪|<font color="#00C000"></font>|![Gen1-024](/images/PokeMons/Gen1/024.gif "阿柏怪")||/|
 |025|皮卡丘|<font color="#00C000"></font>|![Gen1-025](/images/PokeMons/Gen1/025.gif "皮卡丘")||/|
+[123](/images/PokeMons/Gen1/001.gif)
