@@ -1,115 +1,75 @@
-# [纯纯无聊瞎弄的，勿删---鴿子]
+# 欢迎来到功能性网页
 
-## 游戏介绍
+## [纯纯无聊瞎弄的，勿删---鴿子]
 
-欢迎来到小游戏网页！这里有各种有趣的小游戏等着你来挑战。快来试试吧！
+## 功能介绍
 
-## 游戏列表
+这是一个华丽的功能性网页，使用了Markdown语法来编写。它提供了以下功能：
 
-### 1. 猜数字游戏
+- 计算器
+- 时钟
+- 天气预报
 
-#### 游戏规则
+## 计算器
 
-在游戏开始时，系统会随机生成一个 1 到 100 的整数，你需要在 10 次机会内猜出这个数字。每次猜完后，系统会告诉你猜的数字是大于还是小于目标数字，直到你猜中为止。
+在下面的输入框中输入表达式，点击“计算”按钮即可得到计算结果。
 
-#### 游戏界面
-
-请在下面输入你的猜测：
-
-<input type="text" id="guessInput">
-<button onclick="guess()">猜一下</button>
-
+<input type="text" id="expression" placeholder="请输入表达式">
+<button onclick="calculate()">计算</button>
 <p id="result"></p>
 
-#### 游戏代码
-
-```javascript
-var target = Math.floor(Math.random() * 100) + 1;
-var remainingGuesses = 10;
-
-function guess() {
-  var guessInput = document.getElementById("guessInput");
-  var guess = parseInt(guessInput.value);
-
-  if (isNaN(guess)) {
-    alert("请输入一个数字！");
-    return;
-  }
-
-  remainingGuesses--;
-
-  if (guess === target) {
-    document.getElementById("result").innerHTML = "恭喜你，猜对了！";
-    return;
-  }
-
-  if (remainingGuesses === 0) {
-    document.getElementById("result").innerHTML = "很遗憾，你没有猜中。正确答案是：" + target;
-    return;
-  }
-
-  var hint = guess > target ? "大了" : "小了";
-  document.getElementById("result").innerHTML = "你猜的数字" + hint + "，还剩下" + remainingGuesses + "次机会。";
+<script>
+function calculate() {
+  var expression = document.getElementById("expression").value;
+  var result = eval(expression);
+  document.getElementById("result").innerHTML = "计算结果：" + result;
 }
-```
+</script>
 
-### 2. 打地鼠游戏
+## 时钟
 
-#### 游戏规则
+下面是一个实时显示当前时间的时钟。
 
-在游戏开始时，地鼠会随机从洞口中冒出来，你需要在有限的时间内尽可能多地打中它们。每打中一个地鼠，你会得到一定的分数，打中越多分数越高。
+<p id="clock"></p>
 
-#### 游戏界面
+<script>
+function updateClock() {
+  var now = new Date();
+  var hours = now.getHours();
+  var minutes = now.getMinutes();
+  var seconds = now.getSeconds();
+  var timeString = hours + ":" + minutes + ":" + seconds;
+  document.getElementById("clock").innerHTML = "当前时间：" + timeString;
+}
+setInterval(updateClock, 1000);
+</script>
 
-<div id="gameArea">
-  <div class="hole"></div>
-  <div class="hole"></div>
-  <div class="hole"></div>
-  <div class="hole"></div>
-  <div class="hole"></div>
-  <div class="hole"></div>
-</div>
+## 天气预报
 
-<p>得分：<span id="score">0</span></p>
-<p>时间：<span id="time">60</span>秒</p>
+在下面的输入框中输入城市名称，点击“查询”按钮即可得到该城市的天气预报。
 
-#### 游戏代码
+<input type="text" id="city" placeholder="请输入城市名称">
+<button onclick="getWeather()">查询</button>
+<p id="weather"></p>
 
-```javascript
-var score = 0;
-var time = 60;
-
-function startGame() {
-  setInterval(function() {
-    time--;
-    document.getElementById("time").innerHTML = time + "秒";
-    if (time === 0) {
-      endGame();
-    }
-  }, 1000);
-
-  var holes = document.getElementsByClassName("hole");
-  for (var i = 0; i < holes.length; i++) {
-    holes[i].addEventListener("click", function() {
-      score++;
-      document.getElementById("score").innerHTML = score;
+<script>
+function getWeather() {
+  var city = document.getElementById("city").value;
+  var url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=YOUR_API_KEY&units=metric";
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      var weather = data.weather[0].description;
+      var temperature = data.main.temp;
+      document.getElementById("weather").innerHTML = "天气预报：" + weather + "，温度：" + temperature + "℃";
+    })
+    .catch(error => {
+      console.error(error);
+      document.getElementById("weather").innerHTML = "查询失败，请检查城市名称是否正确。";
     });
-  }
 }
+</script>
 
-function endGame() {
-  var holes = document.getElementsByClassName("hole");
-  for (var i = 0; i < holes.length; i++) {
-    holes[i].removeEventListener("click", function() {
-      score++;
-      document.getElementById("score").innerHTML = score;
-    });
-  }
+## 结语
 
-  alert("时间到！你的得分是：" + score);
-}
-```
-
-## 结束语
-
-感谢您来到小游戏网页，希望您玩得愉快！
+感谢您来访我的功能性网页，希望您喜欢这些功能。如果您有任何建议或意见，请随时联系我。
