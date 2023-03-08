@@ -2,7 +2,6 @@
 
 ## [纯纯无聊瞎弄的，勿删---鴿子]
 
-html
 <!DOCTYPE html>
 <html>
 <head>
