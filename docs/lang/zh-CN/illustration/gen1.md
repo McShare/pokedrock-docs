@@ -19,9 +19,9 @@
 |001|妙蛙种子|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "妙蛙种子")|森林|0.7/6.9|
 |002|妙蛙草|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-002](/images/PokeMons/Gen1/002.gif "妙蛙草")|森林|1/13|
 |003|妙蛙花|<font color="#00C000">草</font>、<font color="#A000E0">毒</font>|![Gen1-003](/images/PokeMons/Gen1/003.gif "妙蛙花")|桦木林|2/100|
-|004|小火龙|<font color="#00C000"></font>|![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")||/|
-|005|火恐龙|<font color="#00C000"></font>|![Gen1-005](/images/PokeMons/Gen1/005.gif "火恐龙")||/|
-|006|喷火龙|<font color="#00C000"></font>|![Gen1-006](/images/PokeMons/Gen1/006.gif "喷火龙")||/|
+|004|小火龙|<font color="#E40000">火</font>|![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")|恶地|0.6/8.5|
+|005|火恐龙|<font color="#E40000">火</font>|![Gen1-005](/images/PokeMons/Gen1/005.gif "火恐龙")|恶地|1.1/19|
+|006|喷火龙|<font color="#E40000">火</font>、<font color="#7EE7FF">飞行</font>|![Gen1-006](/images/PokeMons/Gen1/006.gif "喷火龙")|恶地|1.7/90.5|
 |007|杰尼龟|<font color="#00C000"></font>|![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")||/|
 |008|卡咪龟|<font color="#00C000"></font>|![Gen1-008](/images/PokeMons/Gen1/008.gif "卡咪龟")||/|
 |009|水箭龟|<font color="#00C000"></font>|![Gen1-009](/images/PokeMons/Gen1/009.gif "水箭龟")||/|
