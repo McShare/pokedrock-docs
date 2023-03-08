@@ -25,12 +25,12 @@
 |007|杰尼龟|<font color="#2B80FF">水</font>|![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")|海滩|0.5/9|
 |008|卡咪龟|<font color="#2B80FF">水</font>|![Gen1-008](/images/PokeMons/Gen1/008.gif "卡咪龟")|海滩|1/22.5|
 |009|水箭龟|<font color="#2B80FF">水</font>|![Gen1-009](/images/PokeMons/Gen1/009.gif "水箭龟")|海滩|1.6/85.5|
-|010|绿毛虫|<font color="#00C000"></font>|![Gen1-010](/images/PokeMons/Gen1/010.gif "绿毛虫")||/|
-|011|铁甲蛹|<font color="#00C000"></font>|![Gen1-011](/images/PokeMons/Gen1/011.gif "铁甲蛹")||/|
-|012|巴大蝶|<font color="#00C000"></font>|![Gen1-012](/images/PokeMons/Gen1/012.gif "巴大蝶")||/|
-|013|独角虫|<font color="#00C000"></font>|![Gen1-013](/images/PokeMons/Gen1/013.gif "独角虫")||/|
-|014|铁壳蛹|<font color="#00C000"></font>|![Gen1-014](/images/PokeMons/Gen1/014.gif "铁壳蛹")||/|
-|015|大针蜂|<font color="#00C000"></font>|![Gen1-015](/images/PokeMons/Gen1/015.gif "大针蜂")||/|
+|010|绿毛虫|<font color="#8ABC00">虫</font>|![Gen1-010](/images/PokeMons/Gen1/010.gif "绿毛虫")||/|
+|011|铁甲蛹|<font color="#8ABC00">虫</font>|![Gen1-011](/images/PokeMons/Gen1/011.gif "铁甲蛹")||/|
+|012|巴大蝶|<font color="#8ABC00">虫</font>、<font color="#7EE7FF">飞行</font>|![Gen1-012](/images/PokeMons/Gen1/012.gif "巴大蝶")||/|
+|013|独角虫|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-013](/images/PokeMons/Gen1/013.gif "独角虫")||/|
+|014|铁壳蛹|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-014](/images/PokeMons/Gen1/014.gif "铁壳蛹")||/|
+|015|大针蜂|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-015](/images/PokeMons/Gen1/015.gif "大针蜂")||/|
 |016|波波|<font color="#00C000"></font>|![Gen1-016](/images/PokeMons/Gen1/016.gif "波波")||/|
 |017|比比鸟|<font color="#00C000"></font>|![Gen1-017](/images/PokeMons/Gen1/017.gif "比比鸟")||/|
 |018|大比鸟|<font color="#00C000"></font>|![Gen1-018](/images/PokeMons/Gen1/018.gif "大比鸟")||/|
