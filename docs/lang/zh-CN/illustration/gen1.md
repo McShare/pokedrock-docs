@@ -31,7 +31,7 @@
 |013|独角虫|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-013](/images/PokeMons/Gen1/013.gif "独角虫")|森林|0.3/3.2|
 |014|铁壳蛹|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-014](/images/PokeMons/Gen1/014.gif "铁壳蛹")|森林|0.6/10|
 |015|大针蜂|<font color="#8ABC00">虫</font>、<font color="#A000E0">毒</font>|![Gen1-015](/images/PokeMons/Gen1/015.gif "大针蜂")|森林|0.9/6.4|
-|016|波波|<font color="#00C000"></font>|![Gen1-016](/images/PokeMons/Gen1/016.gif "波波")||/|
+|016|波波|<font color="#00C000"></font>|![Gen1-016](/images/PokeMons/Gen1/016.gif "波波")|任何地方|/|
 |017|比比鸟|<font color="#00C000"></font>|![Gen1-017](/images/PokeMons/Gen1/017.gif "比比鸟")||/|
 |018|大比鸟|<font color="#00C000"></font>|![Gen1-018](/images/PokeMons/Gen1/018.gif "大比鸟")||/|
 |019|小拉达|<font color="#00C000"></font>|![Gen1-019](/images/PokeMons/Gen1/019.gif "小拉达")||/|
