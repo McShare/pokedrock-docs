@@ -20,6 +20,7 @@
 <p id="result"></p>
 
 <script>
+
 var target = Math.floor(Math.random() * 100) + 1;
 var remainingGuesses = 10;
 
@@ -47,6 +48,7 @@ function guess() {
   var hint = guess > target ? "大了" : "小了";
   document.getElementById("result").innerHTML = "你猜的数字" + hint + "，还剩下" + remainingGuesses + "次机会。";
 }
+
 </script>
 
 ### 2. 打地鼠游戏
@@ -70,6 +72,7 @@ function guess() {
 <p>时间：<span id="time">60</span>秒</p>
 
 <script>
+
 var score = 0;
 var time = 60;
 
@@ -102,5 +105,6 @@ function endGame() {
 
   alert("时间到！你的得分是：" + score);
 }
+
 </script>
 
