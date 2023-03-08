@@ -2,49 +2,105 @@
 
 ## [纯纯无聊瞎弄的，勿删---鴿子]
 
-## 介绍
+## 游戏列表
 
-这是一个有趣的网页，使用了Markdown语法和HTML语法来编写。虽然没有使用JavaScript和CSS等技术，但是也有很多有趣的内容。
+### 1. 猜数字游戏
 
-## 特点
+#### 游戏规则
 
-- 简单易学
-- 语法清晰明了
-- 适用于各种场景
+在游戏开始时，系统会随机生成一个 1 到 100 的整数，你需要在 10 次机会内猜出这个数字。每次猜完后，系统会告诉你猜的数字是大于还是小于目标数字，直到你猜中为止。
 
-## 示例
+#### 游戏界面
 
-以下是一些有趣的内容：
+请在下面输入你的猜测：
 
-### 图片
+<input type="text" id="guessInput">
+<button onclick="guess()">猜一下</button>
 
-![一只可爱的猫咪](https://placekitten.com/200/300)
+<p id="result"></p>
 
-### 表格
+<script>
+var target = Math.floor(Math.random() * 100) + 1;
+var remainingGuesses = 10;
 
-| 姓名 | 年龄 | 性别 |
-| ---- | ---- | ---- |
-| 张三 | 20   | 男   |
-| 李四 | 25   | 女   |
-| 王五 | 30   | 男   |
+function guess() {
+  var guessInput = document.getElementById("guessInput");
+  var guess = parseInt(guessInput.value);
 
-### 引用
+  if (isNaN(guess)) {
+    alert("请输入一个数字！");
+    return;
+  }
 
-> 人生苦短，我用Python。
+  remainingGuesses--;
 
-### 音频
+  if (guess === target) {
+    document.getElementById("result").innerHTML = "恭喜你，猜对了！";
+    return;
+  }
 
-<audio controls>
-  <source src="https://www.w3schools.com/tags/horse.ogg" type="audio/ogg">
-  <source src="https://www.w3schools.com/tags/horse.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+  if (remainingGuesses === 0) {
+    document.getElementById("result").innerHTML = "很遗憾，你没有猜中。正确答案是：" + target;
+    return;
+  }
 
-### 视频
+  var hint = guess > target ? "大了" : "小了";
+  document.getElementById("result").innerHTML = "你猜的数字" + hint + "，还剩下" + remainingGuesses + "次机会。";
+}
+</script>
 
-<video width="320" height="240" controls>
-  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-  <source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+### 2. 打地鼠游戏
+
+#### 游戏规则
+
+在游戏开始时，地鼠会随机从洞口中冒出来，你需要在有限的时间内尽可能多地打中它们。每打中一个地鼠，你会得到一定的分数，打中越多分数越高。
+
+#### 游戏界面
+
+<div id="gameArea">
+  <div class="hole"></div>
+  <div class="hole"></div>
+  <div class="hole"></div>
+  <div class="hole"></div>
+  <div class="hole"></div>
+  <div class="hole"></div>
+</div>
+
+<p>得分：<span id="score">0</span></p>
+<p>时间：<span id="time">60</span>秒</p>
+
+<script>
+var score = 0;
+var time = 60;
+
+function startGame() {
+  setInterval(function() {
+    time--;
+    document.getElementById("time").innerHTML = time + "秒";
+    if (time === 0) {
+      endGame();
+    }
+  }, 1000);
+
+  var holes = document.getElementsByClassName("hole");
+  for (var i = 0; i < holes.length; i++) {
+    holes[i].addEventListener("click", function() {
+      score++;
+      document.getElementById("score").innerHTML = score;
+    });
+  }
+}
+
+function endGame() {
+  var holes = document.getElementsByClassName("hole");
+  for (var i = 0; i < holes.length; i++) {
+    holes[i].removeEventListener("click", function() {
+      score++;
+      document.getElementById("score").innerHTML = score;
+    });
+  }
+
+  alert("时间到！你的得分是：" + score);
+}
+</script>
 
