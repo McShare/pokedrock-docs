@@ -14,7 +14,7 @@
 
 ## Pokédex<font size="1" color="#A9A9A9"><sub><i>.Gen Ⅰ</i></sub></font>
 
-|NO.|Pokemon|Type|Exterior|Habitat|Height<font size="1" color="#A9A9A9"><sub><i>m</i></sub></font>/Weight<font size="1" color="#A9A9A9"><sub><i>kg</i></sub></font>|
+|NO.|Name|Type|Exterior|Habitat|Height<font size="1" color="#A9A9A9"><sub><i>m</i></sub></font>/Weight<font size="1" color="#A9A9A9"><sub><i>kg</i></sub></font>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Bulbasaur](/images/PokeMons/Gen1/Game/001.jpg "Bulbasaur")|<font color="#00C000">Grass</font>、<font color="#A000E0">Poison</font>|![Gen1-001](/images/PokeMons/Gen1/001.gif "Bulbasaur")|Forest|0.7/6.9|
 |002|Ivysaur|<font color="#00C000">Grass</font>、<font color="#A000E0">Poison</font>|![Gen1-002](/images/PokeMons/Gen1/002.gif "Ivysaur")|Forest|1/13|
