@@ -4,7 +4,7 @@
 
 ![Gen1PokeMon](/images/PokeMons/InitialPokeMon/gen1.jpg)
 
-## 御三家<font size="1" color="#A9A9A9"><sub><i>.第一世代</i></sub></font>
+## 最初的伙伴<font size="1" color="#A9A9A9"><sub><i>.第一世代</i></sub></font>
 
 * <font color="#E40000">火属性：小火龙</font>![Gen1-004](/images/PokeMons/Gen1/004.gif "小火龙")<br>
 * <font color="#2B80FF">水属性：杰尼龟</font>![Gen1-007](/images/PokeMons/Gen1/007.gif "杰尼龟")<br>
