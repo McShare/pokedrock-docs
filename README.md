@@ -2,17 +2,21 @@
 SERP Pokédrock模组文档
 <https://pokedrock.wiki/>
 
-## 预览
+## 贡献
+请通过 Fork/Pull Request 的方式帮助我们完善文档！
+
+## 运行
+### 预览
 ```shell
 yarn dev
 ```
 
-## 构建
+### 构建
 ``` shell
 yarn build
 ```
 
-## 目录结构
+### 目录结构
 ```
 └─ docs
    ├─ .vuepress
