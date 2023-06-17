@@ -9,6 +9,6 @@
 export const navbar_zh_CN = [
     {
         text: 'GitHub',
-        link: 'https://github.com/McShare',
+        link: 'https://github.com/McShare/pokedrock-docs',
     },
 ]
