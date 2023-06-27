@@ -26,6 +26,13 @@ yarn build
    |  ├─ public
    |  |  └─ images # 图片文件夹
    |  └─ config.js # 配置文件
+   ├─ how-to-use #用法文件夹
+   ├─ illustration #图例
    └─ languages # 其他语言文件夹
-      └─ en-US # 英语
+      └─ zh-CN # 中文
+      |  └─ how-to-use #用法
+      |  └─ illustration #图例
+      └─ es-ES # 西班牙语
+         └─ how-to-use #用法
+         └─ illustration #图例
 ```
