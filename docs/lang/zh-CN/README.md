@@ -14,4 +14,4 @@ description: SERP Pokédrock模组文档
 本文档将介绍如何下载、安装和导入该模组，并且展示和介绍模组中的各种物品与生物，同时也会补充许多需要注意的使用方法。
 
 >   本项目不隶属于 Mojang 且与 Pokémon 游戏无关，各生物和物品名称皆为 Pokémon 公司资产。  
->   本模组与文档都正在积极开发中，欢迎前往 [Github](https://github.com/McShare) 参与！
+>   本模组与文档都正在积极开发中，欢迎前往 [Github](https://github.com/McShare/pokedrock-docs) 参与！
