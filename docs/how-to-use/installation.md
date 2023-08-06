@@ -10,7 +10,6 @@ Please download the mod through the following channels, otherwise it is illegal 
 
 ## Import
 
-To retrieve a list of random ingredients,
-you can use the `lumache.get_random_ingredients()` function:
+The way to import Add-on is different on different platforms
 
 ## Play

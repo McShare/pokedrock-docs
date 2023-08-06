@@ -1,16 +1,14 @@
-# Installation
+# Instalación
 
-## Download
+## Descargar
 
-Please download the mod through the following channels, otherwise it is illegal distribution.
+Descargue el mod a través de los siguientes canales, de lo contrario, es una distribución ilegal.
 
-1. Official Website (English)：<https://www.serpzacek.com/addons/serp-pok%C3%A9drock>
+1. Página web oficial (English)：<https://www.serpzacek.com/addons/serp-pok%C3%A9drock>
 2. MCPEDL (Spanish)：<https://mcpedl.com/user/zacek-estrada/>
 3. MineBBS (Chinese)：<https://www.minebbs.com/pokedrock/>
 
-## Import
-
-To retrieve a list of random ingredients,
-you can use the `lumache.get_random_ingredients()` function:
+## Importar
+La forma de importar Add-on es diferente en diferentes plataformas
 
 ## Play
