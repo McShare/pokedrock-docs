@@ -12,7 +12,7 @@
 
 ## 导入
 
-不同平台上导入Add-on的方式不尽相同，可以参考该主题：<https://www.minebbs.com/threads/minecraft-mcbe-add-on.20082/>
+不同平台上导入Add-on的方式不尽相同，可以参考该教程：<https://www.minebbs.com/threads/minecraft-mcbe-add-on.20082/>
 
 ### 安卓
 

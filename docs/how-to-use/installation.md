@@ -10,6 +10,6 @@ Please download the mod through the following channels, otherwise it is illegal 
 
 ## Import
 
-The way to import Add-on is different on different platforms
+The way to import Add-on is different on different platforms, please refer to this tutorial: <https://learn.microsoft.com/en-us/minecraft/creator/documents/addonpackinstallation>
 
 ## Play

@@ -9,6 +9,6 @@ Descargue el mod a través de los siguientes canales, de lo contrario, es una di
 3. MineBBS (Chinese)：<https://www.minebbs.com/pokedrock/>
 
 ## Importar
-La forma de importar Add-on es diferente en diferentes plataformas
+La forma de importar Add-on es diferente en diferentes plataformas, por favor consulte este tutorial: <https://learn.microsoft.com/es-es/minecraft/creator/documents/addonpackinstallation?tabs=Windows10>
 
-## Play
+## Jugar
