@@ -8,7 +8,7 @@
 2. MCPEDL（英语）：<https://mcpedl.com/user/zacek-estrada/>
 3. MineBBS（汉语）：<https://www.minebbs.com/pokedrock/>
 
-在MineBBS，你可以选择下载整合包或者独立包，整合包即为整合了该模组各内容，直接导入即可装载所有组件，获取完整体验；而独立包则为你提供自定义
+在MineBBS，你可以选择下载整合包或者独立包，整合包即为整合了该模组各内容，直接导入即可装载所有组件，获取完整体验；而独立包则为你提供自由搭配的选择。
 
 ## 导入
 
