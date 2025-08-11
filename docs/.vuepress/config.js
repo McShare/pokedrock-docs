@@ -34,7 +34,7 @@ export default defineUserConfig({
         '/lang/zh-CN': {
             lang: 'zh-CN',
             title: 'SERP Pokédrock 文档',
-            description: 'SERP Pokédrock 模组的文档',
+            description: 'SERP Pokédrock 模组文档',
         },
         '/lang/es-ES': {
             lang: 'es-ES',
