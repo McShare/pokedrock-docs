@@ -5,7 +5,7 @@ description: SERP Pokédrock模组文档
 
 ![Logo](/images/Logo.png)
 
-# 欢迎来到 Pokédrock 的文档！
+# 欢迎来到 Pokédrock 的模组文档！
 
 欢迎来到 [SERP Pokédrock](https://www.serpzacek.com/addons/serp-pok%C3%A9drock) 的世界！这个插件拥有惊艳和灵活的战斗系统！全面适配 [Minecraft Bedrock](https://www.minecraft.net/) 并支持领域，能让你获得完整而真实得冒险体验！
 
