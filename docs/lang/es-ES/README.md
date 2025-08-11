@@ -7,11 +7,11 @@ description: SERP Pokédrock Docs
 
 # ¡Bienvenido a la documentación de Pokédrock!
 
-¡Bienvenido al mundo de [SERP Pokédrock](https://www.serpzacek.com/addons/serp-pok%C3%A9drock)! ¡Este complemento tiene un sistema de combate increíble y flexible! Totalmente adaptado a [Minecraft Bedrock](https://www.minecraft.net/) y admite dominios, lo que te permite obtener una experiencia de aventura completa y real.
+¡Bienvenido al mundo de SERP Pokédrock! Este plugin cuenta con exquisitos modelos de sprites, un sistema de combate flexible y es totalmente compatible con [Minecraft Bedrock Edition](https://www.minecraft.net/). También es compatible con los servidores Realm, ¡ofreciéndote una experiencia de aventura completa y auténtica!
 
-Este mod fue creado por [Zacek el Serpentín](https://twitter.com/SERP_Zacek) y chinoizado por [MineBBS](https://www.minebbs.com/).
+Este mod fue creado por [Zacek el Serpentín](https://twitter.com/SERP_Zacek).
 
-Este documento presentará cómo descargar, instalar e importar el mod, mostrar e introducir varios elementos y criaturas en el mod, y también complementará muchos métodos de uso que necesitan atención.
+Este documento explicará cómo descargar, instalar e importar el mod, además de mostrar y presentar los distintos objetos y criaturas que lo componen. También proporcionará consejos importantes de uso.
 
 >   Este proyecto no está afiliado a Mojang y no tiene nada que ver con el juego Pokémon, todos los nombres de criaturas y elementos son propiedad de The Pokémon Company. 
 >   Este mod y la documentación están en desarrollo activo, ¡bienvenido a [Github](https://github.com/McShare/pokedrock-docs) para participar!
