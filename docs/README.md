@@ -15,4 +15,4 @@ This document will explain how to download, install, and import the mod, and wil
 
 >   This project is not affiliated with Mojang and has nothing to do with the Pokémon game, creatures and item names are property of The Pokémon Company. 
 
->   This documentation is actively being improved. Welcome to log in and contribute to its creation together!
+>   This module and its documentation are actively under development. Feel free to contribute to this project on [GitHub](https://github.com/McShare/pokedrock-docs)!
