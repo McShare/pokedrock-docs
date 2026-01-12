@@ -14,4 +14,5 @@ This mod was created by [Zacek el Serpentín](https://x.com/SERP_Zacek).
 This document will explain how to download, install, and import the mod, and will also showcase and introduce the various items and creatures in the mod. It will also provide some important usage tips.
 
 >   This project is not affiliated with Mojang and has nothing to do with the Pokémon game, creatures and item names are property of The Pokémon Company. 
->   Both the Addon and the documentation are under active development, welcome to participate!
+
+>   This documentation is actively being improved. Welcome to log in and contribute to its creation together!
